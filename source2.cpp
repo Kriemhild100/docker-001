@@ -1,3 +1,7 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
 // Base class
 class Animal {
   public:
